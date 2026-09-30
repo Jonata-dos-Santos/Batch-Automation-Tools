@@ -1,0 +1,29 @@
+# BACKUP DE SAVES DA STEAM
+
+## DESCRIÇÃO
+
+Script Batch desenvolvido para criar cópias de segurança dos arquivos de salvamento de dois jogos da Steam.
+
+O objetivo é permitir a recuperação dos saves caso os arquivos originais sejam perdidos ou danificados.
+
+## COMO USAR
+
+1. Abra o arquivo .bat em um editor de texto.
+2. Confira os caminhos dos saves dos jogos.
+3. Verifique o destino onde os backups serão armazenados.
+4. Execute o script.
+5. Confirme se os arquivos foram copiados corretamente.
+
+## PERSONALIZAÇÃO
+
+O script foi desenvolvido para dois jogos específicos. Para adicionar outros, será necessário adaptar os caminhos e os comandos de backup.
+O script salva os backups nomeados com data e hora de criação. Para modificar a nomeação dos arquivos, será necessário editar o script.
+O script funciona fazendo backup para um diretório x e depois copiando os backups do diretório x para o diretório y. Para modificar os diretórios, será necessário editar o script.
+
+## CUIDADOS
+
+* Não considere o backup concluído sem conferir se os arquivos foram copiados corretamente.
+* Evite armazenar a única cópia de segurança no mesmo local dos arquivos originais.
+* Evite deixar o script rodando em segundo plano por muito tempo caso não precise; a criação de muitos arquivos pode ocupar mais espaço de disco do que o desejado.
+* Considere que alguns jogos utilizam a Steam Cloud ou outros mecanismos próprios de sincronização.
+* Antes de restaurar um save, verifique se ele é compatível com a versão atual do jogo.

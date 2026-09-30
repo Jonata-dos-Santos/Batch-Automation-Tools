@@ -1,0 +1,24 @@
+# ORGANIZADOR DE DOWNLOADS
+
+## DESCRIÇÃO
+
+Script Batch desenvolvido para organizar os arquivos da pasta Downloads em subpastas ou pastas do sistema de acordo com as extensões reconhecidas pelo código.
+
+O objetivo é facilitar a organização dos arquivos baixados e evitar o acúmulo de itens desorganizados.
+
+## COMO USAR
+
+1. Abra o arquivo .bat.
+2. Verifique se o caminho da pasta Downloads está correto.
+3. Execute o script.
+4. Confira se os arquivos foram movidos para as pastas esperadas.
+
+## LIMITAÇÕES
+
+* O script não reconhece todas as extensões de arquivos existentes.
+* Extensões não contempladas no código podem permanecer sem organização.
+* O funcionamento depende dos caminhos e das regras definidos no script.
+
+## CUIDADOS
+
+Confira o código antes de executá-lo e verifique o resultado após a organização, especialmente se a pasta contiver arquivos importantes.

@@ -1,0 +1,29 @@
+# LIMPADOR DE ARQUIVOS TEMPORÁRIOS
+
+## DESCRIÇÃO
+
+Script Batch desenvolvido para excluir arquivos temporários de diretórios definidos no código.
+
+O objetivo é reduzir o acúmulo de arquivos desnecessários e auxiliar na manutenção do espaço em disco.
+
+## COMO USAR
+
+1. Abra o arquivo .bat em um editor de texto.
+2. Confira os diretórios que serão limpos.
+3. Verifique se os caminhos estão corretos.
+4. Execute o script.
+5. Aguarde a conclusão da limpeza.
+
+O script foi configurado para encerrar automaticamente após terminar a execução e pode ser iniciado junto com o Windows.
+
+## LIMITAÇÕES
+
+* A limpeza depende dos diretórios definidos no código.
+* Alguns arquivos podem não ser excluídos se estiverem em uso ou se o usuário não tiver as permissões necessárias.
+* A limpeza não garante a remoção de vírus ou outros malwares.
+
+## CUIDADOS
+
+A exclusão de arquivos temporários não substitui o uso de um antivírus.
+
+Não adicione diretórios ao script sem verificar sua finalidade. A exclusão de arquivos utilizados por programas pode causar erros ou perda de dados temporários importantes.

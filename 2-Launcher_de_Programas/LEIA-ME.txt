@@ -1,0 +1,24 @@
+# LAUNCHER DE PROGRAMAS
+
+## DESCRIÇÃO
+
+Script Batch que permite abrir programas a partir de um único menu, centralizando o acesso aos aplicativos configurados.
+
+## COMO USAR
+
+1. Abra o arquivo .bat em um editor de texto.
+2. Confira os caminhos dos programas configurados.
+3. Altere os caminhos, se necessário.
+4. Execute o script e selecione o programa desejado no menu.
+
+## PERSONALIZAÇÃO
+
+O script foi desenvolvido inicialmente para abrir dois programas. É possível adicionar outros, adaptando as opções do menu e os comandos de execução.
+
+## LIMITAÇÕES
+
+Os programas precisam estar instalados nos caminhos definidos no código, ou os comandos devem ser adaptados para a instalação utilizada.
+
+## CUIDADOS
+
+Confira os caminhos antes de modificar o script para evitar erros ao abrir os programas.

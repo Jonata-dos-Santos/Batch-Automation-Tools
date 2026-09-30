@@ -1,0 +1,34 @@
+# BACKUP DE MUNDOS DE JOGOS VOXEL
+
+## DESCRIÇÃO
+
+Script Batch desenvolvido para criar cópias de segurança dos mundos de:
+
+* Minecraft Java Edition
+* Minecraft Bedrock Edition
+* Hytale
+
+O script também contempla instalações do Minecraft Java que utilizam o SK Launcher, conforme os caminhos configurados no código.
+
+O objetivo é preservar mundos, construções e o progresso dos jogos.
+
+## COMO USAR
+
+1. Abra o arquivo .bat em um editor de texto.
+2. Confira os caminhos dos diretórios dos mundos.
+3. Verifique o destino dos backups.
+4. Execute o script.
+5. Confirme se os backups foram criados e contêm os arquivos esperados.
+
+## LIMITAÇÕES
+
+O funcionamento depende dos caminhos utilizados pelas instalações dos jogos e das configurações presentes no script.
+
+Se um jogo estiver instalado em outro diretório, pode ser necessário alterar o caminho correspondente.
+
+## CUIDADOS
+
+* Sempre confira se o backup foi criado corretamente.
+* Evite sobrescrever uma cópia de segurança válida sem verificar o conteúdo da nova cópia.
+* Faça os backups com os jogos fechados, quando possível, para reduzir o risco de copiar arquivos em uso ou dados inconsistentes.
+* Armazene cópias em outro disco ou local quando quiser proteção adicional contra falhas no dispositivo original.
