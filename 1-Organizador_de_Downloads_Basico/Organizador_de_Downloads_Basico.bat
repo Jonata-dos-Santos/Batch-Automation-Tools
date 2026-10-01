@@ -338,4 +338,4 @@ echo Downloads organizados!
 echo Script feito por Jonata.
 
 timeout /t 5 /nobreak >nul
-goto inicio@echo off
+goto inicio
