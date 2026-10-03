@@ -1,6 +1,6 @@
 # Batch-Automation-Tools
 
-Coleção de scripts Batch desenvolvidos para automatizar tarefas cotidianas no Windows. Os projetos incluem ferramentas para organização de arquivos, limpeza de pastas temporárias, inicialização de programas e criação de backups.
+Coleção de scripts Batch desenvolvidos em um tempo somado de 2 dias para automatizar tarefas cotidianas no Windows. Os projetos incluem ferramentas para organização de arquivos, limpeza de pastas temporárias, inicialização de programas e criação de backups.
 
 Este repositório reúne projetos pessoais que desenvolvi enquanto aprendia automação com Batch Script, incluindo ferramentas criadas para resolver problemas do meu próprio dia a dia.
 
